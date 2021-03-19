@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://dule123:dule123@mern.jnzpg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secretTokenForUser",
+  "githubClientId": "6ddcace73544f93eb003",
+  "githubSecret": "095a0f964be6f1d41d96c82517722d6d9ae8e656"
+}
